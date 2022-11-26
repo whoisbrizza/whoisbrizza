@@ -2,6 +2,8 @@
 
 - 🌱 Estudando desenvolvimento back-end na {reprograma}
 - 📫 contate-me no email: brizza.adv@hotmail.com
+- 📌 Linkedin: https://www.linkedin.com/in/brizzanathielly/
+- 📌 Currículo: https://drive.google.com/drive/folders/1wylbtzvUTxbOoaxzecIP8XwMGpqcnx4r?usp=sharing
 - 😄 Pronomes: ela/dela
 
 
