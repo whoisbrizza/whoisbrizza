@@ -3,6 +3,7 @@
 - 👩‍💻 Back-end Developer
 - 📫 Email: brizza.adv@hotmail.com
 - 📌 Linkedin: https://www.linkedin.com/in/brizzanathielly/
+- 📌 Behance/Portfólio: https://www.behance.net/brizzadacruz
 - 📌 Currículo: https://drive.google.com/drive/folders/1wylbtzvUTxbOoaxzecIP8XwMGpqcnx4r?usp=sharing
 - 😄 Pronomes: ela/dela
 
