@@ -17,10 +17,12 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   
-### Projetos
+## Projetos
+  
+### 📝 Link
+  
+- [Cronograma Médico]([https://w](https://github.com/whoisbrizza/cronograma-medico-brizza-nathielly)
   
 <br>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whoisbrizza&repo=jornada-dev-tiktok)](https://github.com/anuraghazra/github-readme-stats) 
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whoisbrizza&repo=cronograma-medico-brizza-nathielly)](https://github.com/anuraghazra/github-readme-stats) 
+- [Clone do TikTok](https://github.com/whoisbrizza/jornada-dev-tiktok)
