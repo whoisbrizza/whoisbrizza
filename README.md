@@ -21,7 +21,7 @@
   
 ### 📝 Link
   
-- [Cronograma Médico]([https://w](https://github.com/whoisbrizza/cronograma-medico-brizza-nathielly)
+- [Cronograma Médico](https://github.com/whoisbrizza/cronograma-medico-brizza-nathielly)
   
 <br>
   
